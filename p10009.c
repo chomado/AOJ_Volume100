@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/* 問題で円周率が3.141592653589と与えられていました。*/
 int main(void) {
    double r;
    int i;
